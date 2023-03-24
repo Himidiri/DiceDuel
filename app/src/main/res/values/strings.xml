@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dice Duel</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+    <string name="dice_duel">Dice Duel</string>
+    <string name="throw_btn">Throw</string>
+    <string name="home">Home</string>
+    <string name="score">Score</string>
+    <string name="about_author">About Author</string>
+    <string name="uow_id">UoW ID : W1839837</string>
+    <string name="name">Name : Himidiri Himakanika Pushpakumara</string>
+    <string name="info">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="ok_btn">Ok</string>
+    <string name="score_popup_window_title">About Optional Role</string>
+    <string name="score_Info1">To Added this Round to the Score Click \"YES \" Button.</string>
+    <string name="score_Info2">For ReRoll Your Dices Again Click \"NO \" Button</string>
+    <string name="s_yes_btn">Yes</string>
+    <string name="s_no_btn">No</string>
+    <string name="about_optional_rerolls">About Optional Rerolls</string>
+    <string name="set_target_value">Set Target Value</string>
+    <string name="enter_target_value">Enter Target Value</string>
+    <string name="set_target">Set Target</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="add_a_target">Add A Target</string>
+    <string name="about_dice_select">About Dice Select</string>
+    <string name="ok">Ok</string>
+</resources>
