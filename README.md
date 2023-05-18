@@ -12,13 +12,13 @@ This project is for the 5COSC023C module on Mobile Application Development. The 
 ### Screenshots of the Interface
 
 <div>
-  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/43987c4b-55a3-4d6b-bd7e-81c4aaf4e058" alt="Screenshot 1" style="width: 400px; height: auto; margin-right: 20px; margin-bottom: 40px;"/>
-  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/361b27a8-a119-451c-9759-4b5d750a6c57" alt="Screenshot 2" style="width: 400px; height: auto; margin-left: 20px; margin-bottom: 40px;"/>
+  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/43987c4b-55a3-4d6b-bd7e-81c4aaf4e058" alt="Screenshot 1" style="width: 300px; height: auto; margin-right: 20px; margin-bottom: 40px;"/>
+  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/361b27a8-a119-451c-9759-4b5d750a6c57" alt="Screenshot 2" style="width: 300px; height: auto; margin-left: 20px; margin-bottom: 40px;"/>
 </div>
 
 <div>
-  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/5e1e1c73-c2cc-49b4-a478-492cb51e8258" alt="Screenshot 3" width="800" style="margin-bottom: 40px;"/>
+  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/5e1e1c73-c2cc-49b4-a478-492cb51e8258" alt="Screenshot 3" width="600" style="margin-bottom: 40px;"/>
 </div>
 <div>
-  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/7e970baf-310a-403c-b371-d8d87c617f5a" alt="Screenshot 4" width="800"/>
+  <img src="https://github.com/Himidiri/DiceDuel/assets/102814081/7e970baf-310a-403c-b371-d8d87c617f5a" alt="Screenshot 4" width="600"/>
 </div>
